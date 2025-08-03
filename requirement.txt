@@ -1,0 +1,6 @@
+torch
+torchvision
+torchaudio
+TTS @ git+https://github.com/coqui-ai/TTS.git
+notebook
+ipython

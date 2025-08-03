@@ -1,0 +1,9 @@
+Bước 1: Mở Terminal hoặc nhấn Ctrl + Shift + `
+Bước 2: Tạo môi trường python ảo:
+python -m venv venv
+Bước 3: Kích hoạt môi trường python ảo
+.\venv\Scripts\activate
+Bước 4: Cài môi trường tư Requirements.txt
+pip install -r requirements.txt
+Bước 5: Chạy file run_tts.py
+python run_tts.py
